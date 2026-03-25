@@ -254,6 +254,8 @@ export default function App() {
               <div style={styles.ticketPanel}>
                 <div style={styles.ticketLabel}>Régulier</div>
                 <div style={styles.ticketPriceLarge}>40 $</div>
+                <p>2 feuilles de bingo régulier incluses</p>
+                <p>Music rounds en supplément</p>
                 <p style={styles.panelText}>Accès à la soirée Bingo Dingo et à toute l'ambiance party.</p>
               </div>
               <div style={styles.ticketPanelVip}>
@@ -262,6 +264,8 @@ export default function App() {
                 <ul style={styles.vipList}>
                   <li>1 consommation</li>
                   <li>1 glow stick</li>
+                  <p>3 feuilles de bingo incluses</p>
+                   <p>Music rounds en supplément</p>
                   <li>Accès prioritaire</li>
                   <li>Expérience VIP</li>
                 </ul>
